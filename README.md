@@ -1,2 +1,1 @@
 # supervisor_information_crawler
-supervisor information crawler
